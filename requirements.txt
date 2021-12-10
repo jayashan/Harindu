@@ -40,7 +40,6 @@ PyYAML==3.13
 regex==2021.11.10
 reportlab==3.6.1
 requests==2.26.0
-scikit-learn==1.1.dev0
 scipy==1.9.0.dev0+1049.c9cdbf2
 Serializer==0.2.1
 simplejson==3.17.5
